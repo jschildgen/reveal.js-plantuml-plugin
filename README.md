@@ -22,9 +22,13 @@ Your folder structure:
 
 ## Usage
 
-PlantUML images can be created in the slides with `<img uml="..."/>` This will show the generated image.
+PlantUML images can be created in the slides with `<img uml="..."/>` 
 
 ```<img uml="Bob->Alice : hello"/>```
+
+This will show the generated image.
+
+![](http://www.plantuml.com/plantuml/img/SyfFqhLppCbCJbMmKiX8pSd91m00)
 
 ## License
 
