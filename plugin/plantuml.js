@@ -1,6 +1,7 @@
 /*
  * Write PlantUML text-diagram description into a <img class="plantuml">...</div>
- * 
+ * https://github.com/jschildgen/reveal.js-plantuml-plugin/
+ *
  * Uses https://plantuml.com/de/code-javascript-asynchronous
  * Uses https://github.com/johan/js-deflate
  *
@@ -89,7 +90,7 @@ var PlantUML = (function(){
                     }
                 } else {
                     setTimeout(function() {
-                            done_deflating({ data: [deflate(s), plantimg[i]] });
+                            done_deflating({ data: deflate(s) });
                     }, 100);
                 }
             }          
