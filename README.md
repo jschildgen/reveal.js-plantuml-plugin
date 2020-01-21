@@ -26,3 +26,8 @@ PlantUML images can be created in the slides with `<img uml="..."/>` This will s
 
 ```<img uml="Bob->Alice : hello"/>```
 
+## License
+
+MIT licensed
+
+Copyright (C) 2020 Johannes Schildgen
