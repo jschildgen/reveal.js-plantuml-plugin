@@ -1,7 +1,7 @@
 /*
  * Write PlantUML text-diagram description into a <img class="plantuml">...</div>
  * 
- * Uses https://plantuml.com/de/code-javascript-asynchronous
+ * Uses https://plantuml.com/de/code-javascript-synchronous
  * Uses https://github.com/johan/js-deflate
  *
  * By Johannes Schildgen, 2019
