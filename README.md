@@ -30,6 +30,8 @@ This will show the generated image.
 
 ![](http://www.plantuml.com/plantuml/img/SyfFqhLppCbCJbMmKiX8pSd91m00)
 
+Important: Double-quote characters `"` must be replaced by `&quot;` 
+ 
 ## License
 
 MIT licensed
