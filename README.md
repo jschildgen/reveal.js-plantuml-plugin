@@ -6,7 +6,7 @@
 
 1. Add the file `lib/deflate.js` to the `lib` folder of reveal.js and add the following line to your presentation before reveal.js initialization:
 ```
-<script src="lib/rawdeflate.js"></script>
+<script src="lib/deflate.js"></script>
 ```
 
 2. Add the file `plugin/plantuml.js` to the `plugin` folder of reveal.js and include the following line in your dependencies list of the reveal.js initialization:
